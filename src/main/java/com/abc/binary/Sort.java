@@ -1,7 +1,7 @@
-package com.abc.binary;
+package com.abc.binary;
 public class Sort{
 public static int[] sorting(int[] a){
-int temp=0
+int temp=0;
 for(int i=0;i<a.length;i++){
 for(int j=i+1;j<a.length;j++){
 if(a[i]<a[j]){
