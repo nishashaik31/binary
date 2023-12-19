@@ -1,7 +1,10 @@
 package com.abc.binary;
 public class BS{
 public static void main(string[] arg){
-int[4] a=[4,5,6,7];
+Array a=new Array[5];
+a.add(5);
+  a.add(6);
+  a.add(7);
 int first=0;
 int last=a.length-1;
 int mid=(first+last)/2;
