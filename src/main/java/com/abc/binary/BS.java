@@ -1,5 +1,5 @@
 package com.abc.binary;
-publi class BS{
+public class BS{
 public static void main(string[] arg){
 int a[]=[4,5,6,7];
 int first=0;
